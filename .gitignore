@@ -1,0 +1,16 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+tmp/
+input/
+output/
+models/
+*.pth
+*.safetensors
+*.onnx
+*.zip
+*.cbz
+*.pdf
+*.part

@@ -1,0 +1,4 @@
+spandrel==0.4.2
+pymupdf==1.28.2
+pillow
+tqdm
